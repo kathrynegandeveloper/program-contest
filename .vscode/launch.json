@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Green4",
+            "request": "launch",
+            "mainClass": "Green4",
+            "projectName": "program-contest_42452ca9"
+        },
+        {
+            "type": "java",
             "name": "Green3",
             "request": "launch",
             "mainClass": "Green3",
